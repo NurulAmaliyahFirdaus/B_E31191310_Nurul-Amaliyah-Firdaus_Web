@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Nurul Amaliyah Firdaus</title>
+	<title>NURUL AMALIYAH FIRDAUS</title>
 </head>
 <body>
 	<h2>Hello Word CI</h2>
