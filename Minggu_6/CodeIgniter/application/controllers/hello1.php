@@ -4,3 +4,4 @@ class hello1 extends CI_Controller{
 		echo "<h2>Hello Word CI!</h2>";
 	}
 }
+?>
