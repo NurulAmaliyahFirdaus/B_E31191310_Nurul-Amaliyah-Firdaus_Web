@@ -17,9 +17,11 @@ class Kode extends CI_Controller{
 				break;
 			default:
 				echo 'Input URI Salah'
+				}
+		}
+			else{
+				echo 'Input URI Salah';
 			}
-	}else{
-		echo 'Input URI Salah';
-	}
 	}
 }
+?>
